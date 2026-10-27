@@ -1,0 +1,3 @@
+- uv run fastapi dev main.py --port 8080
+- uv init fast_api_blog
+- uv add "fastapi[standard]"
